@@ -1,4 +1,4 @@
-angular.module('calorific', ['ionic'])
+angular.module('GMIT', ['ionic'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
